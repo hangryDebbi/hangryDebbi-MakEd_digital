@@ -7947,11 +7947,6 @@
                 },
              "240":
                 {
-                 "animation":[
-                        {
-                         "duration":2000,
-                         "tileid":196
-                        }],
                  "objectgroup":
                     {
                      "draworder":"index",
