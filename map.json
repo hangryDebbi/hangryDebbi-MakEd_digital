@@ -92,6 +92,11 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"X-Frame-Options",
+                 "type":"string",
+                 "value":"allow-from https:\/\/www.tinkercad.com\/lessonplans"
+                }, 
+                {
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.tinkercad.com\/lessonplans"
@@ -109,6 +114,11 @@
          "name":"open_scratsh",
          "opacity":1,
          "properties":[
+                {
+                 "name":"X-Frame-Options",
+                 "type":"string",
+                 "value":"allow-from https:\/\/scratch.mit.edu\/projects\/editor\/?tutorial=getStarted"
+                }, 
                 {
                  "name":"openWebsite",
                  "type":"string",
